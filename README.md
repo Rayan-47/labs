@@ -7,3 +7,5 @@ The dataset contains daily gym attendance and workout-related features such as w
 The target variable is whether a member attends the gym on a given day.
 
 The goal of the model is to learn patterns in workout and daily activity data and predict gym attendance based on these features. This can help understand attendance behavior and improve gym engagement strategies.
+
+https://www.kaggle.com/datasets/zahranusratt/daily-gym-attendance-and-workout-activity-dataset
