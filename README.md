@@ -1,3 +1,3 @@
 # labs
 all Machine Learning labs
-My name is Rayan ALahmadi I'm a student in iau
+My name is Rayan Alahmadi I'm a student in iau
