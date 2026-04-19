@@ -1,2 +1,2 @@
-# ML labs
-My name is Rayan Alahmadi I'm a student in iau and here i will submit all my Machine Learning labs
+# lab 6
+Lab 6 Solution
